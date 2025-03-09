@@ -46,9 +46,6 @@ function OnboardingForm() {
     setRibbon(response);
   };
 
-  // TODO: Testing
-  // TODO: Polish
-
   return (
     <Layout>
       <Header>Step 1 of 5</Header>
